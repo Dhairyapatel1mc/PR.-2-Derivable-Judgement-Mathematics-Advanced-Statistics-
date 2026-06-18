@@ -109,15 +109,22 @@
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure 🗂️
 
-```
-📦 Derivable-Judgement/
-│
-├── 📓 derivable_judgement_Part_A.ipynb   ← Theory notes + infographic diagrams
-├── 📓 derivable_judgement_Part_B.ipynb   ← Data analysis + statistical tests
-├── 📊 health_data.csv                    ← Synthetic health dataset (500 rows)
-└── 📄 README.md                          ← Project documentation
+```text
+📦 PR.-2-Derivable-Judgement-Mathematics-Advanced-Statistics-/
+├── 📁 charts/
+│   ├── 📈 95% confidence intervals.png
+│   ├── 📊 Age vs BMI.png
+│   ├── 📉 BMI Diabetic vs Non-diabetic.png
+│   ├── 🩸 Blood Pressure by Age Group.png
+│   ├── 🔥 Correlation Heatmap.png
+│   └── 🚬 Diabetes Rate by Smoking Status.png
+├── 📓 derivable_judgement_Part_A.ipynb
+├── 📓 derivable_judgement_Part_B.ipynb
+├── 📄 health_data.csv
+├── 🎥 video
+└── 📘 README.md
 ```
 
 ---
