@@ -35,7 +35,9 @@
 
 ## 📑 Table of Contents
 
-
+<table>
+<tr>
+<td valign="top" width="60%">
 
 - [📌 Project Overview](#-project-overview)
 - [🎯 Project Objectives](#-project-objectives)
@@ -62,6 +64,14 @@
 - [👤 Author](#-author)
 - [⭐ Support](#-support)
 
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:12px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
