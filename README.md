@@ -109,7 +109,7 @@
 
 ---
 
-## 📂 Project Structure 🗂️
+📁 Project Structure
 
 ```text
 📦 PR.-2-Derivable-Judgement-Mathematics-Advanced-Statistics-/
