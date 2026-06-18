@@ -29,9 +29,7 @@
 
 ## 📑 Table of Contents
 
-<table>
-<tr>
-<td valign="top" width="65%">
+
 
 - [📌 Project Overview](#-project-overview)
 - [🎯 Project Objectives](#-project-objectives)
@@ -49,16 +47,7 @@
 - [👤 Author](#-author)
 - [⭐ Support](#-support)
 
-</td>
-<td valign="top" align="center" width="35%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📌 Project Overview
 
@@ -353,9 +342,7 @@ jupyter notebook derivable_judgement_Part_B.ipynb
 <td>
 
 **Ghost (Patel Dhairya)**
-- 🎓 B.Tech Artificial Intelligence — Gandhinagar University
 - 🏫 Red and White Skill Education (RWSkill)
-- 🔢 Roll No. — **250101030119**
 - 💻 GitHub — [@Dhairyapatel1mc](https://github.com/Dhairyapatel1mc)
 - 💼 LinkedIn — [ghost-patel](https://www.linkedin.com/in/ghost-patel-0267663b7/)
 - 📸 Instagram — [@ghost_6927](https://www.instagram.com/ghost_6927/?hl=en)
